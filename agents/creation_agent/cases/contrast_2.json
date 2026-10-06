@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large language models (generative AI for text)",
+  "intended_application": "Ambient clinical documentation: drafting visit notes from recorded doctor-patient conversations for physician review",
+  "organization": "Venture-funded telehealth startup offering virtual primary care (~40 clinicians)",
+  "industry_sector": "Digital health; HIPAA-regulated",
+  "business_need": "Increase clinician visit capacity and keep documentation costs low to support growth",
+  "users_stakeholders": "Remote clinicians, patients, product/engineering team, compliance lead, investors",
+  "adoption_posture": "Aggressive / leading-edge",
+  "capabilities_constraints": "Strong in-house engineering; custom EHR; all visits already recorded on video; lean compliance function",
+  "risk_consequence_context": "High clinical and privacy consequences (same as any care provider), but faster ability to iterate and roll back",
+  "management_question": "Should the company build LLM note drafting into its platform for all clinicians?",
+  "time_horizon": "Next 6 months",
+  "additional_context": ""
+}

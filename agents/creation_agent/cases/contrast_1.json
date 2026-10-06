@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large language models (generative AI for text)",
+  "intended_application": "Generating product descriptions and marketing copy for an online catalog",
+  "organization": "Venture-backed direct-to-consumer apparel startup (~80 employees)",
+  "industry_sector": "E-commerce retail",
+  "business_need": "Launching 2,000+ new products per season faster than copywriters can write listings",
+  "users_stakeholders": "Marketing team, merchandisers, customers, brand leadership",
+  "adoption_posture": "Aggressive / leading-edge",
+  "capabilities_constraints": "Cloud-native stack; two data engineers; comfortable with SaaS APIs; small copywriting team",
+  "risk_consequence_context": "Low to moderate: errors are reversible and mostly reputational; some risk of inaccurate product claims",
+  "management_question": "Should the company make LLM-generated copy the default for new listings, with spot-check review?",
+  "time_horizon": "Next 1-2 months",
+  "additional_context": ""
+}

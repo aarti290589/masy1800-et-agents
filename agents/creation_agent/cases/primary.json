@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large language models (generative AI for text)",
+  "intended_application": "Ambient clinical documentation: drafting visit notes from recorded doctor-patient conversations for physician review",
+  "organization": "Regional nonprofit hospital system (4 hospitals, ~600 physicians)",
+  "industry_sector": "Healthcare delivery; HIPAA-regulated",
+  "business_need": "Physician burnout and after-hours charting time; documentation backlog affecting patient throughput",
+  "users_stakeholders": "Physicians, nurses, patients, compliance office, health IT, medical records, payers",
+  "adoption_posture": "Conservative / risk-averse",
+  "capabilities_constraints": "Small IT team; Epic EHR; no in-house ML staff; strict vendor security review; limited capital budget",
+  "risk_consequence_context": "High: note errors can affect clinical care and billing; patient privacy exposure; physician sign-off required on every note",
+  "management_question": "Should the system run a limited pilot of an LLM documentation tool in one outpatient department?",
+  "time_horizon": "Pilot decision in the next 3 months; evaluation over 12 months",
+  "additional_context": ""
+}
